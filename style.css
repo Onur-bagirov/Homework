@@ -1,0 +1,21 @@
+#Background{
+    display: flex;
+    padding: 120px 520px;
+}
+
+.Color_border{
+    display: flex;
+    border: 1px solid black;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 400px;
+    background-image:linear-gradient(yellow,green,black,red,blue);
+}
+
+.Word{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
